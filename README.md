@@ -3,10 +3,7 @@
 
 * Made by:
 
-Yaad Ben Moshe - 201648482
-
-Nitzan Adam - 208871582
-
+Yaad Ben Moshe
 
 * Description :
 
